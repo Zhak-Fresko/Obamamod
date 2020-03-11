@@ -1,19 +1,32 @@
 {
+
     "name": "Obamium forge",
     "description" : "Makes really good liquid.",
-    "type": GenericSmelter,
+    "type": "GenericSmelter"
+    "health": 25000,
+    "itemCapacity": 12,
+    "liquidCapacity": 160,
+    "outputLiquid": {"liquid": "Obamiud", "amount": 16},
+    "size": 3,
     "hasPower": true,
     "hasItems": true,
-    "hasLiquid": true,
-    "size": 2,
-    "outputLiquid" : { "liquid": "Obamiud", "amount": 5 },
+    "hasLiquids": true,
+    "craftTime": 60,
+    "updateEffect": "smeltsmoke",
     "consumes": {
-        "power": 2,
-        "items": {
-            "items": [
-                { "item": "Obamium", "amount": 1 }
-        ]
-    }
-}
-    "category": "crafting"
+		"power": 4.0,
+		"items": {
+			"items": [
+				{ "item": "silicon", "amount": 70 },
+                                { "item": "titanium", "amount": 80 },
+                                { "item": "thorium", "amount": 50 },
+                                { "item": "Obamium", "amount": 85 },
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "Obamium", "amount": 4 },
+	],
+	"category": "crafting"
+
 }
