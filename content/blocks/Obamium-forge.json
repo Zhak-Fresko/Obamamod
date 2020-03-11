@@ -17,15 +17,16 @@
 		"power": 4.0,
 		"items": {
 			"items": [
-				{ "item": "silicon", "amount": 70 },
-                                { "item": "titanium", "amount": 80 },
-                                { "item": "thorium", "amount": 50 },
-                                { "item": "Obamium", "amount": 85 },
+		                { "item": "Obamium", "amount": 4 },	
 			]
 		}
 	},
 	"requirements": [
-		{ "item": "Obamium", "amount": 4 },
+                { "item": "silicon", "amount": 70 },
+                { "item": "titanium", "amount": 80 },
+                { "item": "thorium", "amount": 50 },
+                { "item": "Obamium", "amount": 85 },
+
 	],
 	"category": "crafting"
 
