@@ -1,0 +1,19 @@
+{
+    "name": "Obamium forge",
+    "description" : "Makes really good liquid.",
+    "type": "GenericCrafter",
+    "hasPower": true,
+    "hasItems": true,
+    "hasLiquid": true,
+    "size": 2,
+    "outputLiquid" : { "liquid": "Obamiud", "amount": 5 },
+    "consumes": {
+        "power": 2,
+        "items": {
+            "items": [
+                { "item": "Obamium", "amount": 1 },
+        ]
+    }
+}
+    "category": "crafting"
+}

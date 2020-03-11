@@ -1,0 +1,8 @@
+{
+	"name": "Obamiud",
+	"description": "Imagine Obamium, but not solid at all.",
+	"temperature": 0.9,
+    "viscosity": 0.8,
+    "effect": "melting",
+	"color": "95500c",
+}
