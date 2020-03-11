@@ -1,7 +1,7 @@
 {
     "name": "Obamium forge",
     "description" : "Makes really good liquid.",
-    "type": "GenericCrafter",
+    "type": "GenericSmelter",
     "hasPower": true,
     "hasItems": true,
     "hasLiquid": true,
