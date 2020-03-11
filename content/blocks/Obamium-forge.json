@@ -11,7 +11,7 @@
         "power": 2,
         "items": {
             "items": [
-                { "item": "Obamium", "amount": 1 },
+                { "item": "Obamium", "amount": 1 }
         ]
     }
 }
