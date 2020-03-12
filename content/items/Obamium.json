@@ -2,6 +2,6 @@
 	"type": "material",
 	"name": "[brown]Obamium",
 	"description": "A rare resource.",
-	"hardness": 2,
+	"hardness": 4,
 	"cost": 2.0,
 }
